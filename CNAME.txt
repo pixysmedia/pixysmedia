@@ -1,0 +1,4 @@
+echo "www.pixysmedia.site" > CNAME
+git add CNAME
+git commit -m "Add CNAME file"
+git push origin main
